@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm a Civil Engineer in Computer Science from Universidad de Los Lagos 🇨🇱, passionate about building fullstack web applications that solve real-world problems.<br><br>- 💻 I have experience developing internal task management systems for public institutions using technologies like **Angular**, **ASP.NET (C#)**, **JavaScript**, and **SQL Server**.<br>- 🛠️ I'm comfortable working across the full web stack — from creating responsive interfaces to implementing efficient backend logic and working with relational databases.<br>- 🌱 I’m currently expanding my skills in **Node.js**, **Django**, and **RESTful API** design.<br>- 📁 I love building organized and scalable codebases that are easy to maintain.<br>- 🌐 I'm interested in real-world web solutions, collaborative projects, and continuous learning.<br>- 📫 You can reach me at: yomaraddatz96@gmail.com
+# Hi! I'm Antonio Yoma ✨:
+I'm a Civil Engineer in Computer Science, passionate about building fullstack web applications that solve real-world problems.<br><br>- 💻 I have experience developing internal task management systems for public institutions using technologies like **Angular**, **ASP.NET (C#)**, **JavaScript**, and **SQL Server**.<br>- 🛠️ I'm comfortable working across the full web stack — from creating responsive interfaces to implementing efficient backend logic and working with relational databases.<br>- 🌱 I’m currently expanding my skills in **Node.js**, **Docker**, **AWS** and **RESTful API** design.<br>- 📁 I love building organized and scalable codebases that are easy to maintain.<br>- 🌐 I'm interested in real-world web solutions, collaborative projects, and continuous learning.<br>- 📫 You can reach me at: yomaraddatz96@gmail.com
 
 
 ## 🌐 Socials:
@@ -18,7 +18,4 @@ I'm a Civil Engineer in Computer Science from Universidad de Los Lagos 🇨🇱,
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AntonioYoma96&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=AntonioYoma96&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
