@@ -1,4 +1,4 @@
-# Hi! I'm Antonio Yoma ✨:
+# Hi! I'm Antonio Yoma ✨
 I'm a Civil Engineer in Computer Science, passionate about building fullstack web applications that solve real-world problems.<br><br>- 💻 I have experience developing internal task management systems for public institutions using technologies like **Angular**, **ASP.NET (C#)**, **JavaScript**, and **SQL Server**.<br>- 🛠️ I'm comfortable working across the full web stack — from creating responsive interfaces to implementing efficient backend logic and working with relational databases.<br>- 🌱 I’m currently expanding my skills in **Node.js**, **Docker**, **AWS** and **RESTful API** design.<br>- 📁 I love building organized and scalable codebases that are easy to maintain.<br>- 🌐 I'm interested in real-world web solutions, collaborative projects, and continuous learning.<br>- 📫 You can reach me at: yomaraddatz96@gmail.com
 
 
