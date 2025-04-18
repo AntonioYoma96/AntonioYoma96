@@ -16,7 +16,7 @@ I'm a Civil Engineer in Computer Science from Universidad de Los Lagos 🇨🇱,
 ![](https://github-profile-trophy.vercel.app/?username=AntonioYoma96&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AntonioYoma96&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=AntonioYoma96&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AntonioYoma96&icon=0&color=0)](https://visitcount.itsvg.in)
